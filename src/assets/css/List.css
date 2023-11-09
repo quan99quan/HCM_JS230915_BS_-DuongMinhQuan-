@@ -1,0 +1,35 @@
+input[type="checkbox"]:checked + label {
+    text-decoration: line-through;
+  }
+img{
+    width: 200px;
+}
+.body{
+    border: 1px solid #000;
+    width: 1000px;
+    text-align: center;
+}
+.add{
+    border: 1px solid rgb(0, 157, 255);
+    width: 100px;
+    margin-left: 10px;
+    background-color: rgb(0, 157, 255);
+    color: wheat;
+}
+.error{
+    color: red;
+}
+form input{
+    width: 700px;
+    height: 30px;
+}
+table{
+    margin: 0 auto;
+   
+}
+.edit{
+    color: orange;
+}
+.delete{
+    color: red;
+}
